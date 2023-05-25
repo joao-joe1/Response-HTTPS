@@ -1,0 +1,42 @@
+{
+
+  "dependencies": {
+
+    "axios": "^1.4.0",
+
+    "discord.js": "^14.9.0",
+
+    "dotenv": "^16.0.3",
+
+    "http-status-codes": "^2.2.0",
+
+    "node-fetch": "^2.6.1"
+
+  },
+
+  "name": "joe-secret-work",
+
+  "version": "1.0.0",
+
+  "description": "Só para brincar mesmo, kk",
+
+  "main": "index.js",
+
+  "scripts": {
+
+    "test": "echo \"Error: no test specified\" && exit 1"
+
+  },
+
+  "keywords": [
+
+    "bot-discord"
+
+  ],
+
+  "author": "Joe",
+
+  "license": "ISC"
+
+}
+
